@@ -10,7 +10,13 @@
 }
 
 .vargradiente {
-    background: rgba(0, 38, 255, 0.437);
+    background: orangered;
+    height: 400px;
+    width: 675px;
+    border-radius: 5px;
+    grid-column: 3/5;
+    grid-row: 3/5;
+    z-index: -9;
 
 }
 
